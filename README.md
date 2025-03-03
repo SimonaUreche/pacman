@@ -23,6 +23,7 @@ Teach Pacman to navigate the game world using search algorithms.
 
 ✅ A Search (A-Star)* – Uses heuristics to find the best path efficiently.
 
+![WhatsApp Image 2025-03-03 at 09 14 55_764f03e2](https://github.com/user-attachments/assets/d1a86d7a-af4e-456d-843e-60df8db13fc8)
 
 
 # 🎯 2. Pacman Multi-Agent AI
@@ -55,6 +56,8 @@ Develop AI agents that make intelligent decisions in an environment with ghosts 
   * Tuples (()) → Used for storing (state, cost) pairs in priority queues.
   * Dictionaries ({}) → Used for keeping track of visited states.
     
+    ![WhatsApp Image 2025-03-03 at 09 15 14_a3f51d11](https://github.com/user-attachments/assets/0f3aa393-453b-4736-a14d-adc775ad4aa8)
+
 * Object-Oriented Programming (OOP)
 
   * Class-based agents: SearchAgent, MinimaxAgent, ExpectimaxAgent.
